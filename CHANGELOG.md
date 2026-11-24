@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.3.1
+- Logo nova do mod (aparece na lista de Mods do jogo).
+
 ## 1.3.0 — Precision Link + Goggles Display
 - **Precision Link** (Melhorador: Chip + Redstone Link): alvo do Display Link, animado (Spawn, Idle, Idle2, Charge, GIft).
 - **Goggles Display** (Melhorador: Chip + Óculos de Engenheiro): vestível na cabeça, mostra um HUD em tempo real

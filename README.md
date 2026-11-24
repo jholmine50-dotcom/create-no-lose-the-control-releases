@@ -1,3 +1,5 @@
+<p align="center"><img src="img/logo.png" width="200" alt="Create: No Lose the Control"></p>
+
 # Create: No Lose the Control
 
 > Addon para **Create** e **Create: Aeronautics** — Minecraft **1.21.1** / **NeoForge**.
@@ -73,7 +75,7 @@ Como montar o HUD dos óculos: [PRECISION_LINK.md](PRECISION_LINK.md)
 ![HUD dos óculos](img/hud_goggles.png)
 
 ## ⬇️ Download
-**[📥 Baixar a versão 1.3.0 (.jar)](https://github.com/jholmine50-dotcom/create-no-lose-the-control-releases/raw/main/downloads/create_no_lose_the_control-1.21.1-1.3.0.jar)** e coloque na pasta `mods`.
+**[📥 Baixar a versão 1.3.1 (.jar)](https://github.com/jholmine50-dotcom/create-no-lose-the-control-releases/raw/main/downloads/create_no_lose_the_control-1.21.1-1.3.1.jar)** e coloque na pasta `mods`.
 
 Requisitos: NeoForge 21.1.247+, Create 6.0.10+, Create: Aeronautics e Sable. Novidades de cada versão: [CHANGELOG.md](CHANGELOG.md).
 
