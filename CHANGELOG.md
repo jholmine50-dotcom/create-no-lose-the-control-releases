@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.2 — setinha de volta
+- A **setinha** da Mesa de Navegação de Precisão voltou, agora com a textura da mesa de precisão, apontando
+  para a Magnetita de Precisão.
+- As barrinhas de redstone dos lados voltaram: ficam vermelhas e mais fortes conforme o sinal, e somem quando o
+  sinal é 0, sem bugar a textura.
+
 ## 1.1.1 — correções
 - Mesa de Navegação de Precisão: as barras vermelhas que bugavam a textura sumiram e as partes vazadas ficaram
   transparentes, igual à mesa original.
