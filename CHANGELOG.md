@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.0
+- Novo modo da Mesa de Navegação de Precisão: **Dot else Dot**, o contrário do Dot to Dot
+  (sinal mais fraco no meio do caminho e forte nas duas pontas). Já está na GUI, com ícone e gráfico.
+- A setinha agora aponta junto com a bússola também em veículos do Create Aeronautics.
+- As barrinhas de redstone ficam sempre visíveis: vermelho apagado sem sinal, acendendo conforme a carga.
+
 ## 1.1.2 — setinha de volta
 - A **setinha** da Mesa de Navegação de Precisão voltou, agora com a textura da mesa de precisão, apontando
   para a Magnetita de Precisão.

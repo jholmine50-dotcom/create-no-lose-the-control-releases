@@ -32,13 +32,13 @@ tem começo, meio e fim.
 
 Exemplo: o dirigível saiu da base e foi até 300 m. Na volta:
 
-| Distância atual | ratio | Somatic | Minimus | Dot to Dot |
-|---|---|---|---|---|
-| 300 m (ponto mais longe) | 1.00 | 0 | 15 | 0 |
-| 225 m | 0.75 | 4 | 11 | 8 |
-| **150 m (meio)** | 0.50 | 8 | 8 | **15** |
-| 75 m | 0.25 | 11 | 4 | 8 |
-| 0 m (na magnetita) | 0.00 | 15 | 0 | 0 |
+| Distância atual | ratio | Somatic | Minimus | Dot to Dot | Dot else Dot |
+|---|---|---|---|---|---|
+| 300 m (ponto mais longe) | 1.00 | 0 | 15 | 0 | 15 |
+| 225 m | 0.75 | 4 | 11 | 8 | 8 |
+| **150 m (meio)** | 0.50 | 8 | 8 | **15** | **0** |
+| 75 m | 0.25 | 11 | 4 | 8 | 8 |
+| 0 m (na magnetita) | 0.00 | 15 | 0 | 0 | 15 |
 
 Se ele passar de 300 m em algum momento, a régua passa a ser a nova distância.
 
@@ -54,11 +54,11 @@ Se ele passar de 300 m em algum momento, a régua passa a ser a nova distância.
 Desenhando (eixo X = distância, da esquerda "mais longe" até a direita "magnetita"), igual ao gráfico da GUI:
 
 ```
-Somatic             Minimus             Dot to Dot
-15 |        ▁▃▅█    15 |█▅▃▁            15 |    ▅█▅
-   |    ▁▃▅█████       |█████▅▃▁           |  ▃█████▃
- 0 |▁▃▅█████████     0 |█████████▅▃▁     0 |▁█████████▁
-   longe → magnetita   longe → magnetita   longe → magnetita
+Somatic             Minimus             Dot to Dot          Dot else Dot
+15 |        ▁▃▅█    15 |█▅▃▁            15 |    ▅█▅         15 |█▅        ▅█
+   |    ▁▃▅█████       |█████▅▃▁           |  ▃█████▃          |███▃    ▃███
+ 0 |▁▃▅█████████     0 |█████████▅▃▁     0 |▁█████████▁      0 |█████▁▁█████
+   longe → magnetita   longe → magnetita   longe → magnetita   longe → magnetita
 ```
 
 ![modos](img/gui_modos.png)

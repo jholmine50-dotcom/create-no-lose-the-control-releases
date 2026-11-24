@@ -42,13 +42,14 @@ a distância acima da hotbar, com a cor indo de verde (perto) para vermelho (lon
 ### A Mesa de Navegação de Precisão
 Funciona **exatamente** como a Navigation Table do Create Aeronautics (ponteiro, itens aceitos, sinais laterais).
 Mas se você colocar nela uma **bússola presa numa Magnetita de Precisão**, ela vira um sensor de distância e
-manda redstone para os blocos em volta (inclusive o de baixo) conforme o **modo**:
+manda redstone para os blocos em volta (inclusive o de baixo) conforme o **modo** (são 4):
 
 | Modo | Sinal |
 |---|---|
 | **Somatic Redstone** | quanto mais **perto** da magnetita, mais forte |
 | **Minimus Redstone** | quanto mais **longe** da magnetita, mais forte |
 | **Dot to Dot** | mais forte no **meio do caminho** |
+| **Dot else Dot** | o contrário: mais **fraco** no meio do caminho, forte nas pontas |
 
 A "régua" usada é a **maior distância que a mesa já esteve** da magnetita, e ela só cresce. Assim o "meio do
 caminho" existe de verdade. Explicação completa: [MESA_DE_NAVEGACAO.md](MESA_DE_NAVEGACAO.md).
@@ -65,7 +66,7 @@ caminho" existe de verdade. Explicação completa: [MESA_DE_NAVEGACAO.md](MESA_D
    e o `.jar` deste mod.
 
 ## ⬇️ Download
-**[📥 Baixar a versão 1.1.2 (.jar)](https://github.com/jholmine50-dotcom/create-no-lose-the-control-releases/raw/main/downloads/create_no_lose_the_control-1.21.1-1.1.2.jar)** e coloque na pasta `mods`.
+**[📥 Baixar a versão 1.2.0 (.jar)](https://github.com/jholmine50-dotcom/create-no-lose-the-control-releases/raw/main/downloads/create_no_lose_the_control-1.21.1-1.2.0.jar)** e coloque na pasta `mods`.
 
 Requisitos: NeoForge 21.1.247+, Create 6.0.10+, Create: Aeronautics e Sable. Novidades de cada versão: [CHANGELOG.md](CHANGELOG.md).
 
