@@ -65,7 +65,9 @@ caminho" existe de verdade. Explicação completa: [MESA_DE_NAVEGACAO.md](MESA_D
    e o `.jar` deste mod.
 
 ## ⬇️ Download
-Baixe o `.jar` mais recente na aba **[Releases](../../releases)** e coloque na pasta `mods`.
+**[📥 Baixar a versão 1.1.0 (.jar)](https://github.com/jholmine50-dotcom/create-no-lose-the-control-releases/raw/main/downloads/create_no_lose_the_control-1.21.1-1.1.0.jar)** e coloque na pasta `mods`.
+
+Requisitos: NeoForge 21.1.247+, Create 6.0.10+, Create: Aeronautics e Sable. Novidades de cada versão: [CHANGELOG.md](CHANGELOG.md).
 
 ## 📄 Licença
 Todos os direitos reservados ao autor (mammut). O código-fonte não é público.
