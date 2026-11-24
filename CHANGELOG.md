@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.1 — correções
+- Mesa de Navegação de Precisão: as barras vermelhas que bugavam a textura sumiram e as partes vazadas ficaram
+  transparentes, igual à mesa original.
+- A bússola magnetizada agora aparece em cima da mesa e o ponteiro aponta para a Magnetita de Precisão.
+- Magnetizar ficou direto: a bússola (ou a pilha) que está na sua mão vira magnetizada no próprio lugar,
+  sem criar cópia em outro slot.
+
 ## 1.1.0
 - **Mesa de Navegação de Precisão**: Melhorador de Precisão + Chip + Navigation Table.
   Funciona como a Navigation Table normal e, com uma bússola presa numa Magnetita de Precisão,
