@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.3.0 — Precision Link + Goggles Display
+- **Precision Link** (Melhorador: Chip + Redstone Link): alvo do Display Link, animado (Spawn, Idle, Idle2, Charge, GIft).
+- **Goggles Display** (Melhorador: Chip + Óculos de Engenheiro): vestível na cabeça, mostra um HUD em tempo real
+  (a cada 2 ticks) com os dados do Precision Link pareado. Também funciona como Óculos de Engenheiro.
+- A Mesa de Navegação de Precisão agora é **fonte do Display Link** ("Navegação de Precisão"), com opções do que
+  mostrar e da posição e tamanho do HUD dos óculos.
+- O Melhorador mostra o item real (Redstone Link / Óculos) dentro dele durante a animação.
+
 ## 1.2.0
 - Novo modo da Mesa de Navegação de Precisão: **Dot else Dot**, o contrário do Dot to Dot
   (sinal mais fraco no meio do caminho e forte nas duas pontas). Já está na GUI, com ícone e gráfico.

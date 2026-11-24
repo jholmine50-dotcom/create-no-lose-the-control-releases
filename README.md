@@ -20,7 +20,9 @@ e com ela transforma blocos comuns em versões que **sabem a distância** até u
 | **Puxadores de Precisão** | **Montador Mecânico** do Create (grade 4×3): 4 botões / 4 eixos / 4 chips | Clique direito numa Caixa de Precisão → vira Melhorador |
 | **Melhorador de Precisão** | Caixa + Puxadores | A máquina animada (3 slots, sem GUI) |
 | **Magnetita de Precisão** | Melhorador: Chip + **Magnetita** (Lodestone) | Bússola presa nela mostra direção **e distância** |
-| **Mesa de Navegação de Precisão** | Melhorador: Chip + **Navigation Table** | Mesa de navegação que solta **redstone pela distância** (3 modos + GUI) |
+| **Mesa de Navegação de Precisão** | Melhorador: Chip + **Navigation Table** | Mesa de navegação que solta **redstone pela distância** (4 modos + GUI) e é **fonte do Display Link** |
+| **Precision Link** | Melhorador: Chip + **Redstone Link** | Alvo do Display Link que transmite os dados pros óculos |
+| **Goggles Display** | Melhorador: Chip + **Óculos de Engenheiro** | Óculos vestíveis com **HUD em tempo real** (e ainda funcionam como Óculos de Engenheiro) |
 
 ### O Melhorador de Precisão
 - Tem 3 espaços internos, sem baú/GUI: **Chip**, **núcleo** (Magnetita *ou* Navigation Table) e **saída**.
@@ -65,8 +67,13 @@ caminho" existe de verdade. Explicação completa: [MESA_DE_NAVEGACAO.md](MESA_D
 2. Na pasta `mods`: **Create 6.0.10+**, **Create: Aeronautics** (que já traz o *Create Simulated*), **Sable**
    e o `.jar` deste mod.
 
+## 📡 Precision Link + Goggles Display
+Como montar o HUD dos óculos: [PRECISION_LINK.md](PRECISION_LINK.md)
+
+![HUD dos óculos](img/hud_goggles.png)
+
 ## ⬇️ Download
-**[📥 Baixar a versão 1.2.0 (.jar)](https://github.com/jholmine50-dotcom/create-no-lose-the-control-releases/raw/main/downloads/create_no_lose_the_control-1.21.1-1.2.0.jar)** e coloque na pasta `mods`.
+**[📥 Baixar a versão 1.3.0 (.jar)](https://github.com/jholmine50-dotcom/create-no-lose-the-control-releases/raw/main/downloads/create_no_lose_the_control-1.21.1-1.3.0.jar)** e coloque na pasta `mods`.
 
 Requisitos: NeoForge 21.1.247+, Create 6.0.10+, Create: Aeronautics e Sable. Novidades de cada versão: [CHANGELOG.md](CHANGELOG.md).
 
