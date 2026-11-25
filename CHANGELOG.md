@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.0 — Manual de Precisão
+- Novo item **Manual de Precisão** (Livro + Liga de Andesito): guia no jogo com UI personalizada.
+- Índice clicável, receitas desenhadas (3×3, 4×3 e Melhorador), imagens da HUD/GUI, tooltips e clique em item pra ir ao capítulo.
+- Navegação por setas, roda do mouse e teclado; lembra a última página.
+- Conteúdo em português e inglês.
+
 ## 1.3.2
 - Nome do mod corrigido: **Create: Don't Lose The Control**.
 
