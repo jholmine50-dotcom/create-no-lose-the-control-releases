@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.3.2
+- Nome do mod corrigido: **Create: Don't Lose The Control**.
+
 ## 1.3.1
 - Logo nova do mod (aparece na lista de Mods do jogo).
 
