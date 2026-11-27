@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.5.0 — Tudo Mk2
+- **Modelos novos** (estilo Create + tech, densidade 2×): Melhorador, Caixa, Puxadores e Precision Link.
+- **Melhorador**: monitor animado em cima; **HUD** com slots e botão **Melhorar**; animação de montagem própria pra
+  cada receita; pulso de redstone também melhora (automação).
+- **Precision Link**: agora ocupa **2 blocos** (doca + torre com antena e monitor); a torre sai de dentro da doca ao
+  colocar; monitor com o estado da conexão; o item na mão mostra só a doca.
+- **Mesa de Navegação de Precisão**: eixos da distância (XYZ, XZ, X, Y, Z), margem de erro, sinal mínimo 1;
+  a setinha usa o ângulo do servidor (corrige apontar errado em veículos); distância projeta alvos em veículos.
+- **Mesa de Navegação normal** entende a bússola da Magnetita de Precisão (antes apontava pro spawn).
+- Puxadores no tamanho certo na hotbar.
+
 ## 1.4.0 — Manual de Precisão
 - Novo item **Manual de Precisão** (Livro + Liga de Andesito): guia no jogo com UI personalizada.
 - Índice clicável, receitas desenhadas (3×3, 4×3 e Melhorador), imagens da HUD/GUI, tooltips e clique em item pra ir ao capítulo.
