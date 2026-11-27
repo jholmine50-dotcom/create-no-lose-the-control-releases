@@ -24,8 +24,12 @@ e com ela transforma blocos comuns em versões que **sabem a distância** até u
 | **Melhorador de Precisão** | Caixa + Puxadores | A máquina animada, com **monitor** e **HUD com o botão Melhorar** |
 | **Magnetita de Precisão** | Melhorador: Chip + **Magnetita** (Lodestone) | Bússola presa nela mostra direção **e distância** |
 | **Mesa de Navegação de Precisão** | Melhorador: Chip + **Navigation Table** | Mesa de navegação que solta **redstone pela distância** (4 modos + GUI) e é **fonte do Display Link** |
-| **Precision Link** | Melhorador: Chip + **Redstone Link** | Alvo do Display Link que transmite os dados pros óculos (ocupa **2 blocos**, com monitor) |
-| **Goggles Display** | Melhorador: Chip + **Óculos de Engenheiro** | Óculos vestíveis com **HUD em tempo real** (e ainda funcionam como Óculos de Engenheiro) |
+| **Link de Precisão** | Melhorador: Chip + **Redstone Link** | Alvo do Display Link que transmite os dados pros óculos (ocupa **2 blocos**, com monitor) |
+| **Óculos com Display** | Melhorador: Chip + **Óculos de Engenheiro** | Óculos vestíveis com **HUD em tempo real** (e ainda funcionam como Óculos de Engenheiro) |
+
+### 🇧🇷 1.5.1: mod 100% em português
+Todos os textos (blocos, itens, GUIs, HUD dos óculos, manual e mensagens) agora estão em **pt-BR** — e também em
+**Português de Portugal**. Só o nome do mod continua em inglês.
 
 ### ✨ Novidades da 1.5.0: tudo Mk2
 Todos os modelos foram refeitos no estilo do Create (revestimento de andesito, latão, madeira) com um toque tech
@@ -35,7 +39,7 @@ Todos os modelos foram refeitos no estilo do Create (revestimento de andesito, l
   Clique direito abre a **HUD**: coloque o Chip e o núcleo e aperte **Melhorar**. Cada receita tem a sua
   **animação de montagem** na tela (impressora, radar, torre de antena, lentes). Pulso de **redstone** também melhora.
 - **Caixa e Puxadores Mk2**: a Caixa é a máquina fechada; os Puxadores são os 4 braços que se encaixam nela.
-- **Precision Link Mk2**: ocupa **2 blocos** (doca dos óculos + torre com antena e monitor). Ao colocar, a torre
+- **Link de Precisão Mk2**: ocupa **2 blocos** (doca dos óculos + torre com antena e monitor). Ao colocar, a torre
   **sai de dentro da doca**; o monitor mostra sem sinal, dados chegando, pareando, pareado...
 - **Mesa de Navegação de Precisão**: escolha os **eixos** da distância (XYZ, XZ só horizontal, X, Y, Z), **margem de
   erro** (a até N blocos já conta 0 m) e o sinal agora vai de **1 a 15** (nunca apaga).
@@ -44,7 +48,7 @@ Todos os modelos foram refeitos no estilo do Create (revestimento de andesito, l
 ![Melhorador Mk2: HUD](img/mk2_hud_melhorar.png)
 ![Melhorador Mk2: carga](img/mk2_melhorador_carga.png)
 ![Caixa, Puxadores e Link Mk2](img/mk2_caixa_link.png)
-![Precision Link saindo da doca](img/mk2_link_spawn.png)
+![Link de Precisão saindo da doca](img/mk2_link_spawn.png)
 ![Mesa: eixos e margem](img/mesa_gui_v15.png)
 
 ### 📖 O Manual de Precisão (novo na 1.4.0)
@@ -100,13 +104,13 @@ caminho" existe de verdade. Explicação completa: [MESA_DE_NAVEGACAO.md](MESA_D
 2. Na pasta `mods`: **Create 6.0.10+**, **Create: Aeronautics** (que já traz o *Create Simulated*), **Sable**
    e o `.jar` deste mod.
 
-## 📡 Precision Link + Goggles Display
+## 📡 Link de Precisão + Óculos com Display
 Como montar o HUD dos óculos: [PRECISION_LINK.md](PRECISION_LINK.md)
 
 ![HUD dos óculos](img/hud_goggles.png)
 
 ## ⬇️ Download
-**[📥 Baixar a versão 1.5.0 (.jar)](https://github.com/jholmine50-dotcom/create-no-lose-the-control-releases/raw/main/downloads/create_dont_lose_the_control-1.21.1-1.5.0.jar)** e coloque na pasta `mods`.
+**[📥 Baixar a versão 1.5.1 (.jar)](https://github.com/jholmine50-dotcom/create-no-lose-the-control-releases/raw/main/downloads/create_dont_lose_the_control-1.21.1-1.5.1.jar)** e coloque na pasta `mods`.
 
 Requisitos: NeoForge 21.1.247+, Create 6.0.10+, Create: Aeronautics e Sable. Novidades de cada versão: [CHANGELOG.md](CHANGELOG.md).
 

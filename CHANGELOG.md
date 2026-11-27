@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.5.1 — 100% em português
+- Tradução **completa pt-BR**: blocos, itens, GUIs, modos, HUD dos óculos, mensagens e manual (só o nome do mod fica em inglês).
+- Nomes novos: **Link de Precisão** e **Óculos com Display**.
+- Também funciona em **Português de Portugal** (pt_pt).
+- Imagens do manual refeitas em português com os modelos Mk2.
+
 ## 1.5.0 — Tudo Mk2
 - **Modelos novos** (estilo Create + tech, densidade 2×): Melhorador, Caixa, Puxadores e Precision Link.
 - **Melhorador**: monitor animado em cima; **HUD** com slots e botão **Melhorar**; animação de montagem própria pra
