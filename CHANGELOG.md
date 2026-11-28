@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.5.2 — Tradução fechada + página nova
+- Termina a tradução: textos que ainda falavam "Display Link", "Redstone Link", "Precision Link" e "Goggles Display"
+  agora usam os nomes em português (**Transmissor de Exibição**, **Conexão de Redstone**, **Link de Precisão**, **Óculos com Display**).
+- Manual: "Tela do Transmissor de Exibição" e "faz a carga" no lugar de termos em inglês.
+- README e página do CurseForge refeitos, com 17 fotos novas dos modelos Mk2.
+
 ## 1.5.1 — 100% em português
 - Tradução **completa pt-BR**: blocos, itens, GUIs, modos, HUD dos óculos, mensagens e manual (só o nome do mod fica em inglês).
 - Nomes novos: **Link de Precisão** e **Óculos com Display**.

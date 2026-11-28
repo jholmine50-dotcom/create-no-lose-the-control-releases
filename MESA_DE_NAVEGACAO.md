@@ -4,12 +4,12 @@
 1. Faça uma **Magnetita de Precisão** (Melhorador: Chip + Magnetita) e coloque onde quer a referência
    (sua base, um porto, uma pista de pouso...).
 2. Clique nela com uma **bússola**: a bússola fica "presa" nela.
-3. Faça uma **Mesa de Navegação de Precisão** (Melhorador: Chip + Navigation Table) e coloque no seu veículo.
+3. Faça uma **Mesa de Navegação de Precisão** (Melhorador: Chip + Mesa de Navegação) e coloque no seu veículo.
 4. Coloque a bússola na mesa (clique direito, igual à mesa normal).
 5. **Shift + clique direito com a mão vazia** → GUI → escolha o modo.
 6. Puxe a redstone de qualquer lado da mesa (inclusive pelo bloco de baixo).
 
-Sem bússola de precisão, a mesa se comporta **exatamente** como a Navigation Table normal.
+Sem bússola de precisão, a mesa se comporta **exatamente** como a Mesa de Navegação normal.
 
 ![GUI](img/gui_mesa.png)
 
@@ -32,7 +32,7 @@ tem começo, meio e fim.
 
 Exemplo: o dirigível saiu da base e foi até 300 m. Na volta:
 
-| Distância atual | ratio | Somatic | Minimus | Dot to Dot | Dot else Dot |
+| Distância atual | ratio | Somatic | Minimus | Ponto a Ponto | Ponto Senão Ponto |
 |---|---|---|---|---|---|
 | 300 m (ponto mais longe) | 1.00 | 0 | 15 | 0 | 15 |
 | 225 m | 0.75 | 4 | 11 | 8 | 8 |
@@ -54,7 +54,7 @@ Se ele passar de 300 m em algum momento, a régua passa a ser a nova distância.
 Desenhando (eixo X = distância, da esquerda "mais longe" até a direita "magnetita"), igual ao gráfico da GUI:
 
 ```
-Somatic             Minimus             Dot to Dot          Dot else Dot
+Somatic             Minimus             Ponto a Ponto          Ponto Senão Ponto
 15 |        ▁▃▅█    15 |█▅▃▁            15 |    ▅█▅         15 |█▅        ▅█
    |    ▁▃▅█████       |█████▅▃▁           |  ▃█████▃          |███▃    ▃███
  0 |▁▃▅█████████     0 |█████████▅▃▁     0 |▁█████████▁      0 |█████▁▁█████
